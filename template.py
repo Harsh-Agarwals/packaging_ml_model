@@ -36,10 +36,16 @@ list_of_files = [
     f"{project_path}/trained_models/__init__.py",
     f"{project_path}/training_pipeline.py",
     f"{project_path}/research/trials.ipynb",
+    f"{project_path}/utils/__init__.py",
+    f"{project_path}/utils/evaluation.py",
     "setup.py",
     "mainfest.in",
     "tests/pytest.ini",
-    "tests/test_prediction.py"
+    "tests/test_prediction.py",
+    "templates/index.html",
+    "templates/dashboard.html",
+    "static/style.css",
+    "app.py"
 ]
 
 for file in list_of_files:
