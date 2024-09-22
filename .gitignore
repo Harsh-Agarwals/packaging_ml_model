@@ -1,2 +1,5 @@
 venv/
 .env
+logs/
+.ipynb_checkpoints/
+clinical_role/datasets/
